@@ -155,8 +155,8 @@ a:hover {
 }
 
 .subtitle-a {
-  text-decoration: none;
-  color: #4e4e4e;
+  text-decoration: bold;
+  color: #ffffff;
 }
 
 .line-mf {
@@ -904,7 +904,7 @@ a:hover {
 --------------------------------------------------------------*/
 .counter-box {
   color: #fff;
-  text-align: right;
+  text-align: center;
 }
 
 @media (min-width: 577px) {
